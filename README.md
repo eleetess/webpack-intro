@@ -61,3 +61,7 @@ npm run build
 - [x] `dist/bundle.js` is generated (can be ignored in `.gitignore` if not required)
 - [x] Project is pushed to a GitHub repo named `webpack-intro`
 - [x] GitHub repository link is submitted on the assignment platform
+<img width="1909" height="1017" alt="Screenshot 2025-07-29 073909" src="https://github.com/user-attachments/assets/fbe03e5c-341c-4eac-9695-bed693f80ef8" />
+<img width="1910" height="994" alt="Screenshot 2025-07-29 073727" src="https://github.com/user-attachments/assets/50933d05-ac3d-492f-b420-f6ac9416e966" />
+<img width="1907" height="996" alt="Screenshot 2025-07-29 073752" src="https://github.com/user-attachments/assets/974b9148-9d91-4566-8104-6a0a6bea2389" />
+<img width="1905" height="999" alt="Screenshot 2025-07-29 073806" src="https://github.com/user-attachments/assets/1c16c6d4-6cea-4e78-9eab-40e825ea2a6d" />
